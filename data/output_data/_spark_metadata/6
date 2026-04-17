@@ -1,4 +1,0 @@
-v1
-{"path":"file:///content/crypto-streaming-pipeline/data/output_data/part-00000-bb044590-e4f1-447d-8971-f15f3701d0c8-c000.snappy.parquet","size":815,"isDir":false,"modificationTime":1776398244715,"blockReplication":1,"blockSize":33554432,"action":"add"}
-{"path":"file:///content/crypto-streaming-pipeline/data/output_data/part-00106-ffed4317-4a50-4438-a43e-f4bfd520a2f2-c000.snappy.parquet","size":1811,"isDir":false,"modificationTime":1776398250814,"blockReplication":1,"blockSize":33554432,"action":"add"}
-{"path":"file:///content/crypto-streaming-pipeline/data/output_data/part-00167-7e6b27ac-b9b8-4a79-83a9-05b496ef6df8-c000.snappy.parquet","size":1818,"isDir":false,"modificationTime":1776398253370,"blockReplication":1,"blockSize":33554432,"action":"add"}
